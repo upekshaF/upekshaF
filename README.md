@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @upekshaF
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...on instagram - upxksha
+- 💞️ I’m looking to collaborate on Development Projects.
+- 📫 How to reach me - upekshafernando18@gmail.com
 
 <!---
 upekshaF/upekshaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
