@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @upekshaF
-- 👀 I’m interested in Software Engineering
-- 💞️ I’m looking to collaborate on Development Projects.
-- 📫 How to reach me - upekshafernando18@gmail.com
 
 Holopin Board: 
 [![@upekshaf's Holopin board](https://holopin.me/upekshaf)](https://holopin.io/@upekshaf)
